@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply overflow-x-hidden bg-cream text-ink font-sans antialiased;
+  }
+  ::selection {
+    @apply bg-wine text-cream;
+  }
+}
+
+@layer components {
+  .container-x {
+    @apply mx-auto w-full max-w-content px-5 sm:px-8;
+  }
+
+  /* Eyebrow label with a small gold rule, as seen in the design refs */
+  .eyebrow {
+    @apply inline-flex items-center gap-3 text-xs font-medium uppercase tracking-label text-wine;
+  }
+  .eyebrow::before {
+    content: "";
+    @apply h-px w-8 bg-gold;
+  }
+
+  .eyebrow-center::before,
+  .eyebrow-center::after {
+    content: "";
+    @apply h-px w-8 bg-gold;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 px-7 py-4 text-xs font-semibold uppercase tracking-label transition-colors duration-200;
+  }
+  .btn-primary {
+    @apply btn bg-wine text-cream hover:bg-wine-dark;
+  }
+  .btn-outline {
+    @apply btn border border-wine/30 text-wine hover:bg-wine hover:text-cream;
+  }
+  .btn-whatsapp {
+    @apply btn bg-[#1FA855] text-white hover:bg-[#178043];
+  }
+
+  .display-1 {
+    @apply font-serif text-5xl leading-[1.05] sm:text-6xl lg:text-7xl;
+  }
+  .display-2 {
+    @apply font-serif text-4xl leading-[1.08] sm:text-5xl;
+  }
+  .display-3 {
+    @apply font-serif text-3xl leading-tight sm:text-4xl;
+  }
+}

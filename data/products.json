@@ -1,0 +1,1152 @@
+[
+  {
+    "slug": "soap-coffee-scrub",
+    "name": "Coffee Scrub Soap",
+    "category": "handmade-soaps",
+    "collection": "Le Pura Premium",
+    "description": "Blend of coffee grinds and nourishing ingredients that gently exfoliates and leaves skin feeling smooth.",
+    "size": "100 gms",
+    "priceMRP": null,
+    "accent": "#6F4E37",
+    "image": "/products/soap-coffee-scrub.jpg?v=1781357572477",
+    "tags": [
+      "exfoliating",
+      "coffee"
+    ]
+  },
+  {
+    "slug": "soap-rose-petals",
+    "name": "Rose Petals Soap",
+    "category": "handmade-soaps",
+    "collection": "Le Pura Premium",
+    "description": "Infused with real rose petals and natural honey for a rich, sensual aroma that nourishes dry skin.",
+    "size": "100 gms",
+    "priceMRP": null,
+    "accent": "#B11E3A",
+    "tags": [
+      "rose",
+      "honey"
+    ]
+  },
+  {
+    "slug": "soap-lemon",
+    "name": "Lemon Soap",
+    "category": "handmade-soaps",
+    "collection": "Le Pura Premium",
+    "description": "Refreshing and a natural immune booster that balances moisture while it cleanses.",
+    "size": "100 gms",
+    "priceMRP": null,
+    "accent": "#E7C200",
+    "tags": [
+      "lemon",
+      "refreshing"
+    ]
+  },
+  {
+    "slug": "soap-ocean-breeze",
+    "name": "Ocean Breeze Soap",
+    "category": "handmade-soaps",
+    "collection": "Le Pura Premium",
+    "description": "An aromatic bar that leaves your skin cleansed and refreshed with a clean, breezy scent.",
+    "size": "100 gms",
+    "priceMRP": null,
+    "accent": "#1E7FB1",
+    "tags": [
+      "aquatic",
+      "fresh"
+    ]
+  },
+  {
+    "slug": "soap-charcoal",
+    "name": "Charcoal Soap",
+    "category": "handmade-soaps",
+    "collection": "Le Pura Premium",
+    "description": "A tried and tested cleansing ingredient that draws out toxins blocking the pores while exfoliating gently.",
+    "size": "100 gms",
+    "priceMRP": null,
+    "accent": "#3A3A3A",
+    "tags": [
+      "detox",
+      "charcoal"
+    ]
+  },
+  {
+    "slug": "soap-lemon-grass",
+    "name": "Lemon Grass Soap",
+    "category": "handmade-soaps",
+    "collection": "Le Pura Premium",
+    "description": "Anti-bacterial properties make this aromatic bar ideal for skin exposed to pollution or humidity.",
+    "size": "100 gms",
+    "priceMRP": null,
+    "accent": "#7CB342",
+    "tags": [
+      "anti-bacterial",
+      "lemongrass"
+    ]
+  },
+  {
+    "slug": "soap-waterlily",
+    "name": "Waterlily Soap",
+    "category": "handmade-soaps",
+    "collection": "Le Pura Premium",
+    "description": "An excellent moisturiser with antioxidant properties that works to calm and soothe the skin.",
+    "size": "100 gms",
+    "priceMRP": null,
+    "accent": "#7E8FB5",
+    "tags": [
+      "moisturising",
+      "antioxidant"
+    ]
+  },
+  {
+    "slug": "soap-rose",
+    "name": "Rose Soap",
+    "category": "handmade-soaps",
+    "collection": "Le Pura Premium",
+    "description": "Cleanse, purify and tone the skin. Enriched with shea butter and honey for a relaxing aroma.",
+    "size": "100 gms",
+    "priceMRP": null,
+    "accent": "#C2185B",
+    "tags": [
+      "rose",
+      "shea"
+    ]
+  },
+  {
+    "slug": "soap-neem",
+    "name": "Neem Soap",
+    "category": "handmade-soaps",
+    "collection": "Le Pura Premium",
+    "description": "Helps soothe your skin with its medicinal properties — relaxing and stress-relieving.",
+    "size": "100 gms",
+    "priceMRP": null,
+    "accent": "#3E8E5A",
+    "tags": [
+      "neem",
+      "medicinal"
+    ]
+  },
+  {
+    "slug": "soap-cool-mint",
+    "name": "Cool Mint Soap",
+    "category": "handmade-soaps",
+    "collection": "Le Pura Premium",
+    "description": "Leaves a cooling effect on your skin, making you feel refreshed even on a hot day.",
+    "size": "100 gms",
+    "priceMRP": null,
+    "accent": "#2BB3A3",
+    "tags": [
+      "mint",
+      "cooling"
+    ]
+  },
+  {
+    "slug": "soap-saffron",
+    "name": "Saffron Soap",
+    "category": "handmade-soaps",
+    "collection": "Le Pura Premium",
+    "description": "All-natural ingredients help remove tan, leaving you with bright, breathing and shining skin.",
+    "size": "100 gms",
+    "priceMRP": null,
+    "accent": "#E08A1E",
+    "tags": [
+      "saffron",
+      "de-tan"
+    ]
+  },
+  {
+    "slug": "soap-aloe-vera",
+    "name": "Aloe Vera Soap",
+    "category": "handmade-soaps",
+    "collection": "Le Pura Premium",
+    "description": "Unleashes smooth skin with the benefits of this all-natural ingredient, staying grease-free all day.",
+    "size": "100 gms",
+    "priceMRP": null,
+    "accent": "#4CAF50",
+    "tags": [
+      "aloe",
+      "soothing"
+    ]
+  },
+  {
+    "slug": "soap-almond-scrub",
+    "name": "Almond Scrub Soap",
+    "category": "handmade-soaps",
+    "collection": "Le Natura",
+    "description": "Gently exfoliates to get rid of dead skin, revealing a smoother, brighter complexion.",
+    "size": "100 gms",
+    "priceMRP": 129,
+    "accent": "#C8A27A",
+    "tags": [
+      "almond",
+      "exfoliating"
+    ]
+  },
+  {
+    "slug": "soap-coffee",
+    "name": "Coffee Soap",
+    "category": "handmade-soaps",
+    "collection": "Le Natura",
+    "description": "Blend of coffee grinds, nourishing honey and shea butter that leaves skin feeling smooth.",
+    "size": "100 gms",
+    "priceMRP": 129,
+    "accent": "#5A3A2A",
+    "tags": [
+      "coffee",
+      "shea"
+    ]
+  },
+  {
+    "slug": "soap-shea-honey",
+    "name": "Shea Honey Soap",
+    "category": "handmade-soaps",
+    "collection": "Le Pura Premium",
+    "description": "Lightly scented and gentle, its humectant properties combat dry, parched skin with finest-quality shea butter.",
+    "size": "100 gms",
+    "priceMRP": null,
+    "accent": "#D8B26A",
+    "tags": [
+      "shea",
+      "honey"
+    ]
+  },
+  {
+    "slug": "soap-lite-marine-aqua",
+    "name": "Marine Aqua Bathing Bar",
+    "category": "handmade-soaps",
+    "collection": "Le Pura Lite",
+    "description": "Le Pura Lite handmade bathing soap that offers a revitalizing, refreshing cleaning experience.",
+    "size": "100 gms",
+    "priceMRP": null,
+    "accent": "#1FA2C4",
+    "tags": [
+      "aquatic",
+      "basic"
+    ]
+  },
+  {
+    "slug": "soap-lite-gulab",
+    "name": "Gulab (Rose) Bathing Bar",
+    "category": "handmade-soaps",
+    "collection": "Le Pura Lite",
+    "description": "The alluring aroma of rose turns your shower into a soothing sensory experience.",
+    "size": "100 gms",
+    "priceMRP": null,
+    "accent": "#D81B60",
+    "tags": [
+      "rose",
+      "basic"
+    ]
+  },
+  {
+    "slug": "soap-lite-sandal",
+    "name": "Sandal Bathing Bar",
+    "category": "handmade-soaps",
+    "collection": "Le Pura Lite",
+    "description": "Le Pura Lite Sandal handmade soap provides a relaxing and renewing bathing effect.",
+    "size": "100 gms",
+    "priceMRP": null,
+    "accent": "#C9A36B",
+    "tags": [
+      "sandalwood",
+      "basic"
+    ]
+  },
+  {
+    "slug": "soap-lite-lemon",
+    "name": "Lemon Bathing Bar",
+    "category": "handmade-soaps",
+    "collection": "Le Pura Lite",
+    "description": "Le Pura Lite Lemon handmade bath soap offers the best in natural skincare with natural ingredients.",
+    "size": "100 gms",
+    "priceMRP": null,
+    "accent": "#E7C200",
+    "tags": [
+      "lemon",
+      "basic"
+    ]
+  },
+  {
+    "slug": "soap-lite-floral-bliss",
+    "name": "Floral Bliss Bathing Bar",
+    "category": "handmade-soaps",
+    "collection": "Le Pura Lite",
+    "description": "A beautiful, relaxing handmade bar scented with a floral fragrance that nourishes skin gently.",
+    "size": "100 gms",
+    "priceMRP": null,
+    "accent": "#EC8AA5",
+    "tags": [
+      "floral",
+      "basic"
+    ]
+  },
+  {
+    "slug": "face-serum-vitamin-e",
+    "name": "Vitamin-E Face Serum",
+    "category": "face-care",
+    "description": "Wheat germ oil serum for instant whitening and brightening, with anti-ageing benefits.",
+    "priceMRP": null,
+    "accent": "#E0B23C",
+    "tags": [
+      "serum",
+      "vitamin-e",
+      "brightening"
+    ]
+  },
+  {
+    "slug": "face-serum-vitamin-c",
+    "name": "Vitamin-C Face Serum",
+    "category": "face-care",
+    "description": "20% Vitamin C with 1% Hyaluronic Acid — a professional anti-ageing, brightening serum.",
+    "priceMRP": null,
+    "accent": "#E89A2B",
+    "tags": [
+      "serum",
+      "vitamin-c",
+      "brightening"
+    ]
+  },
+  {
+    "slug": "face-serum-hyaluronic-acid",
+    "name": "Hyaluronic Acid Face Serum",
+    "category": "face-care",
+    "description": "Hyaluronic acid with Vitamin E, jojoba oil and green tea — a professional hydrating, balancing serum.",
+    "priceMRP": null,
+    "accent": "#6FC3D6",
+    "tags": [
+      "serum",
+      "hydration"
+    ]
+  },
+  {
+    "slug": "face-pack-de-tan-manjistha",
+    "name": "De-Tan Face Pack with Manjistha",
+    "category": "face-care",
+    "description": "Removes tan and evens skin tone with manjistha and natural actives.",
+    "priceMRP": null,
+    "accent": "#B5602E",
+    "tags": [
+      "face pack",
+      "de-tan"
+    ]
+  },
+  {
+    "slug": "face-pack-kumkumadi",
+    "name": "Kumkumadi Face Pack",
+    "category": "face-care",
+    "description": "Anti-ageing and brightening face pack that helps fade pigmentation and de-tan the skin.",
+    "priceMRP": null,
+    "accent": "#C26B2D",
+    "tags": [
+      "face pack",
+      "kumkumadi"
+    ]
+  },
+  {
+    "slug": "face-pack-aloe-neem",
+    "name": "Aloe Neem Face Pack",
+    "category": "face-care",
+    "description": "With tea tree oil and jojoba oil to clarify and soothe blemish-prone skin.",
+    "priceMRP": null,
+    "accent": "#4C9A6A",
+    "tags": [
+      "face pack",
+      "aloe",
+      "neem"
+    ]
+  },
+  {
+    "slug": "face-pack-charcoal",
+    "name": "Charcoal Face Pack",
+    "category": "face-care",
+    "description": "Anti-acne, blemish-fighting charcoal pack that draws out impurities and refines pores.",
+    "priceMRP": null,
+    "accent": "#3A3A3A",
+    "tags": [
+      "face pack",
+      "charcoal"
+    ]
+  },
+  {
+    "slug": "face-pack-multani-mitti",
+    "name": "Multani Mitti Face Pack",
+    "category": "face-care",
+    "description": "Classic Fuller's earth pack with natural actives to cleanse oil and refresh the skin.",
+    "priceMRP": null,
+    "accent": "#C9A06B",
+    "tags": [
+      "face pack",
+      "clay"
+    ]
+  },
+  {
+    "slug": "face-scrub-coffee",
+    "name": "Coffee Scrub",
+    "category": "face-care",
+    "description": "Coffee face scrub with tea tree oil and jojoba oil to buff away dullness.",
+    "priceMRP": null,
+    "accent": "#5A3A2A",
+    "tags": [
+      "scrub",
+      "coffee"
+    ]
+  },
+  {
+    "slug": "face-scrub-kashmiri-walnut",
+    "name": "Kashmiri Walnut Scrub",
+    "category": "face-care",
+    "description": "With wheat germ oil — a deep yet gentle exfoliating scrub for cleaner, smoother skin.",
+    "priceMRP": null,
+    "accent": "#8A5A2B",
+    "tags": [
+      "scrub",
+      "walnut"
+    ]
+  },
+  {
+    "slug": "face-wash-charcoal-tea-tree",
+    "name": "Charcoal Tea Tree Foaming Face Wash",
+    "category": "face-care",
+    "description": "Foaming face wash with charcoal and tea tree to purify oily, blemish-prone skin.",
+    "priceMRP": null,
+    "accent": "#2E2E2E",
+    "tags": [
+      "face wash",
+      "charcoal"
+    ]
+  },
+  {
+    "slug": "face-wash-aloevera-neem",
+    "name": "Aloevera Neem Foaming Face Wash",
+    "category": "face-care",
+    "description": "Gentle foaming wash with aloe vera and neem to cleanse and calm the skin.",
+    "priceMRP": null,
+    "accent": "#5BA46F",
+    "tags": [
+      "face wash",
+      "aloe",
+      "neem"
+    ]
+  },
+  {
+    "slug": "face-wash-arabica-coffee",
+    "name": "Arabica Coffee Foaming Face Wash",
+    "category": "face-care",
+    "description": "Energising foaming face wash with Arabica coffee for a fresh, awakened complexion.",
+    "priceMRP": null,
+    "accent": "#6F4E37",
+    "tags": [
+      "face wash",
+      "coffee"
+    ]
+  },
+  {
+    "slug": "face-cream-skin-brightening",
+    "name": "Skin Brightening Face Cream",
+    "category": "face-care",
+    "description": "With rice protein for smooth, nourished and visibly brighter skin.",
+    "priceMRP": null,
+    "accent": "#6FA56B",
+    "tags": [
+      "cream",
+      "brightening"
+    ]
+  },
+  {
+    "slug": "face-cream-shea-tea-tree",
+    "name": "Shea Butter Tea Tree Oil Face Cream",
+    "category": "face-care",
+    "description": "All-day moisturisation with shea butter and tea tree oil and natural ingredients.",
+    "priceMRP": null,
+    "accent": "#3E6B4F",
+    "tags": [
+      "cream",
+      "shea"
+    ]
+  },
+  {
+    "slug": "face-cream-kumkumadi",
+    "name": "Kumkumadi Face Cream",
+    "category": "face-care",
+    "description": "Hydrates, rejuvenates and brightens with the time-honoured kumkumadi blend.",
+    "priceMRP": null,
+    "accent": "#D08A3A",
+    "tags": [
+      "cream",
+      "kumkumadi"
+    ]
+  },
+  {
+    "slug": "face-cream-super-light",
+    "name": "Super Light Face Cream",
+    "category": "face-care",
+    "description": "Non-sticky, fresh-feel gel cream infused with jojoba oil for water-fresh hydration and glow.",
+    "priceMRP": null,
+    "accent": "#6FC3D6",
+    "tags": [
+      "cream",
+      "gel"
+    ]
+  },
+  {
+    "slug": "hair-shampoo-red-onion",
+    "name": "Herbal Shampoo — Red Onion & Exotic Herbs",
+    "category": "hair-care",
+    "description": "Sulphate- and paraben-free shampoo with red onion and exotic herbs to support hair growth and reduce dandruff.",
+    "priceMRP": null,
+    "accent": "#6E3B2E",
+    "tags": [
+      "shampoo",
+      "red onion",
+      "vegan"
+    ]
+  },
+  {
+    "slug": "hair-shampoo-moringa-green-tea",
+    "name": "Moringa & Green Tea Shampoo",
+    "category": "hair-care",
+    "description": "Gentle, natural shampoo with moringa and green tea for clean, refreshed and nourished hair.",
+    "priceMRP": null,
+    "accent": "#3E8E5A",
+    "tags": [
+      "shampoo",
+      "vegan"
+    ]
+  },
+  {
+    "slug": "hair-shampoo-moroccan-argan",
+    "name": "Moroccan Argan Oil Shampoo",
+    "category": "hair-care",
+    "description": "Argan-rich shampoo that cleanses while restoring softness, shine and smoothness.",
+    "priceMRP": null,
+    "accent": "#2E7DB1",
+    "tags": [
+      "shampoo",
+      "argan"
+    ]
+  },
+  {
+    "slug": "hair-shampoo-coconut-milk",
+    "name": "Coconut Milk Shampoo",
+    "category": "hair-care",
+    "description": "Nourishing coconut milk shampoo for soft, manageable and healthy-looking hair.",
+    "priceMRP": null,
+    "accent": "#5BA46F",
+    "tags": [
+      "shampoo",
+      "coconut"
+    ]
+  },
+  {
+    "slug": "hair-conditioner-almond-coconut",
+    "name": "Almond & Coconut Oil Conditioner",
+    "category": "hair-care",
+    "description": "With aloe vera and Vitamin E to detangle and deeply condition for silky hair.",
+    "priceMRP": null,
+    "accent": "#3A4B8A",
+    "tags": [
+      "conditioner"
+    ]
+  },
+  {
+    "slug": "hair-conditioner-moroccan-argan",
+    "name": "Moroccan Argan Oil Conditioner",
+    "category": "hair-care",
+    "description": "Argan-oil conditioner that smooths frizz and adds a healthy shine.",
+    "priceMRP": null,
+    "accent": "#8A5A2B",
+    "tags": [
+      "conditioner",
+      "argan"
+    ]
+  },
+  {
+    "slug": "hair-conditioner-coconut-milk",
+    "name": "Coconut Milk Conditioner",
+    "category": "hair-care",
+    "description": "Rich coconut-milk conditioner for soft, hydrated and easy-to-style hair.",
+    "priceMRP": null,
+    "accent": "#6F4E37",
+    "tags": [
+      "conditioner",
+      "coconut"
+    ]
+  },
+  {
+    "slug": "hair-conditioner-moringa-green-tea",
+    "name": "Moringa & Green Tea Conditioner",
+    "category": "hair-care",
+    "description": "Lightweight conditioner with moringa and green tea to nourish without weighing hair down.",
+    "priceMRP": null,
+    "accent": "#3E8E5A",
+    "tags": [
+      "conditioner"
+    ]
+  },
+  {
+    "slug": "hair-oil-red-onion",
+    "name": "Hair Oil — Red Onion & 12+ Exotic Herbs",
+    "category": "hair-care",
+    "description": "Nourishing hair oil with red onion and 12+ exotic herbs to strengthen roots and support growth.",
+    "priceMRP": null,
+    "accent": "#5A2E2E",
+    "tags": [
+      "hair oil",
+      "red onion"
+    ]
+  },
+  {
+    "slug": "hair-oil-olive-vitamin-e",
+    "name": "Hair Oil — Olive Oil & Vitamin-E",
+    "category": "hair-care",
+    "description": "Lightweight nourishing oil with olive oil and natural Vitamin-E for shine and conditioning.",
+    "priceMRP": null,
+    "accent": "#6B7A3A",
+    "tags": [
+      "hair oil",
+      "olive"
+    ]
+  },
+  {
+    "slug": "hair-serum-detangle",
+    "name": "De-Tangle Hair Serum",
+    "category": "hair-care",
+    "description": "Restores shine and smoothness with primrose oil, argan oil and wheat germ oil. For all hair types.",
+    "priceMRP": null,
+    "accent": "#1FA2C4",
+    "tags": [
+      "serum"
+    ]
+  },
+  {
+    "slug": "hair-serum-oil-based",
+    "name": "Oil-Based Hair Serum",
+    "category": "hair-care",
+    "description": "Restores shine and smoothness with bio-jojoba and argan oils — no harsh chemicals.",
+    "priceMRP": null,
+    "accent": "#3A4B8A",
+    "tags": [
+      "serum"
+    ]
+  },
+  {
+    "slug": "hair-color-plant-based",
+    "name": "Plant-Based Natural Hair Color & Nourisher",
+    "category": "hair-care",
+    "description": "100% natural hair color with no chemical DIA — colours, strengthens and nourishes in one step.",
+    "priceMRP": null,
+    "accent": "#8A4A2A",
+    "tags": [
+      "hair color",
+      "natural"
+    ]
+  },
+  {
+    "slug": "hair-nutri-mask",
+    "name": "Hair Nutri Mask",
+    "category": "hair-care",
+    "description": "Ready-to-apply mask pre-soaked in aloe vera and herbs — boosts growth, adds shine and strengthens roots.",
+    "priceMRP": null,
+    "accent": "#C2185B",
+    "tags": [
+      "hair mask"
+    ]
+  },
+  {
+    "slug": "body-wash-cocoa-butter",
+    "name": "Cocoa Butter Soothing Body Wash",
+    "category": "body-care",
+    "description": "24-hour moisturisation for all skin types, hydrating with almond oil and sea buckthorn oil.",
+    "priceMRP": null,
+    "accent": "#5A3A2A",
+    "tags": [
+      "body wash",
+      "cocoa"
+    ]
+  },
+  {
+    "slug": "body-wash-honey-almonds",
+    "name": "Honey & Almonds Soothing Body Wash",
+    "category": "body-care",
+    "description": "24-hour moisturisation for all skin types with olive oil and almond oil.",
+    "priceMRP": null,
+    "accent": "#E0A92E",
+    "tags": [
+      "body wash",
+      "honey"
+    ]
+  },
+  {
+    "slug": "body-wash-shea-oat-protein",
+    "name": "Shea Oat Protein Soothing Body Wash",
+    "category": "body-care",
+    "description": "24-hour moisturisation for all skin types, enriched with shea and oat protein.",
+    "priceMRP": null,
+    "accent": "#C8A27A",
+    "tags": [
+      "body wash",
+      "shea",
+      "oat"
+    ]
+  },
+  {
+    "slug": "body-lotion-cocoa-shea",
+    "name": "Body Lotion — Cocoa & Shea Butter",
+    "category": "body-care",
+    "description": "Rich cocoa and shea butter lotion for deep, lasting moisturisation.",
+    "priceMRP": null,
+    "accent": "#6F4E37",
+    "tags": [
+      "lotion",
+      "cocoa",
+      "shea"
+    ]
+  },
+  {
+    "slug": "body-lotion-kumkumadi-tailam",
+    "name": "Body Lotion — Kumkumadi Tailam",
+    "category": "body-care",
+    "description": "Ayurvedic kumkumadi tailam lotion to brighten and nourish the skin.",
+    "priceMRP": null,
+    "accent": "#C26B2D",
+    "tags": [
+      "lotion",
+      "kumkumadi"
+    ]
+  },
+  {
+    "slug": "body-lotion-honey-almond",
+    "name": "Body Lotion — Honey & Almond",
+    "category": "body-care",
+    "description": "Honey and almond lotion that softens and nourishes for smooth, supple skin.",
+    "priceMRP": null,
+    "accent": "#E0A92E",
+    "tags": [
+      "lotion",
+      "honey",
+      "almond"
+    ]
+  },
+  {
+    "slug": "body-lotion-tea-tree-shea",
+    "name": "Body Lotion — Tea Tree Oil & Shea Butter",
+    "category": "body-care",
+    "description": "Tea tree oil and shea butter lotion that clarifies while it moisturises.",
+    "priceMRP": null,
+    "accent": "#3E6B4F",
+    "tags": [
+      "lotion",
+      "tea tree",
+      "shea"
+    ]
+  },
+  {
+    "slug": "body-butter-strawberry",
+    "name": "Strawberry Body Butter",
+    "category": "body-care",
+    "description": "72-hour nourishing moisture in a fruity strawberry body butter.",
+    "priceMRP": null,
+    "accent": "#E04A5F",
+    "tags": [
+      "body butter",
+      "strawberry"
+    ]
+  },
+  {
+    "slug": "body-butter-shea",
+    "name": "Shea Body Butter",
+    "category": "body-care",
+    "description": "Shea body butter with Vitamin-E for nourishing, long-lasting moisture on all skin types.",
+    "priceMRP": null,
+    "accent": "#C8A27A",
+    "tags": [
+      "body butter",
+      "shea"
+    ]
+  },
+  {
+    "slug": "body-butter-cocoa-coffee",
+    "name": "Cocoa & Coffee Body Butter",
+    "category": "body-care",
+    "description": "Indulgent cocoa and coffee body butter with Vitamin-E for nourishing moisture.",
+    "priceMRP": null,
+    "accent": "#5A3A2A",
+    "tags": [
+      "body butter",
+      "cocoa",
+      "coffee"
+    ]
+  },
+  {
+    "slug": "heel-repair-cream",
+    "name": "Intensive Heel Repair Cream",
+    "category": "body-care",
+    "description": "Soothes and softens dry, cracked heels with 24-hour moisturisation. No mineral oil, no paraben.",
+    "priceMRP": null,
+    "accent": "#5FA8C4",
+    "tags": [
+      "foot care"
+    ]
+  },
+  {
+    "slug": "mosquito-repellent-cream",
+    "name": "Mosquito Repellent Lemon Grass Cream",
+    "category": "body-care",
+    "description": "Enriched with natural ingredients — a lemongrass cream that helps keep mosquitoes away.",
+    "priceMRP": null,
+    "accent": "#7CB342",
+    "tags": [
+      "repellent",
+      "lemongrass"
+    ]
+  },
+  {
+    "slug": "lip-balm-coffee",
+    "name": "Coffee Lip Balm",
+    "category": "lip-care",
+    "description": "Nourishes and softens lips with a warm coffee note.",
+    "priceMRP": null,
+    "accent": "#5A3A2A",
+    "tags": [
+      "lip balm",
+      "coffee"
+    ]
+  },
+  {
+    "slug": "lip-balm-strawberry",
+    "name": "Strawberry Lip Balm",
+    "category": "lip-care",
+    "description": "Nourishes and softens lips with a sweet strawberry flavour.",
+    "priceMRP": null,
+    "accent": "#E04A5F",
+    "tags": [
+      "lip balm",
+      "strawberry"
+    ]
+  },
+  {
+    "slug": "lip-balm-vanilla",
+    "name": "Vanilla Lip Balm",
+    "category": "lip-care",
+    "description": "Nourishes and softens lips with a smooth vanilla finish.",
+    "priceMRP": null,
+    "accent": "#E8D8A0",
+    "tags": [
+      "lip balm",
+      "vanilla"
+    ]
+  },
+  {
+    "slug": "lip-balm-plum",
+    "name": "Plum Lip Balm",
+    "category": "lip-care",
+    "description": "Nourishes and softens lips with a rich plum tint.",
+    "priceMRP": null,
+    "accent": "#6B3FA0",
+    "tags": [
+      "lip balm",
+      "plum"
+    ]
+  },
+  {
+    "slug": "lip-scrub-cocoa-coffee",
+    "name": "Cocoa & Coffee Lip Scrub",
+    "category": "lip-care",
+    "description": "Gently buffs away dry, flaky skin for smooth, soft lips.",
+    "priceMRP": null,
+    "accent": "#5A3A2A",
+    "tags": [
+      "lip scrub",
+      "cocoa",
+      "coffee"
+    ]
+  },
+  {
+    "slug": "lip-scrub-strawberry",
+    "name": "Strawberry Lip Scrub",
+    "category": "lip-care",
+    "description": "Sweet strawberry sugar scrub for soft, kissable lips.",
+    "priceMRP": null,
+    "accent": "#E04A5F",
+    "tags": [
+      "lip scrub",
+      "strawberry"
+    ]
+  },
+  {
+    "slug": "lip-scrub-shea-sugar",
+    "name": "Shea & Sugar Lip Scrub",
+    "category": "lip-care",
+    "description": "Shea butter and sugar scrub that exfoliates and conditions lips.",
+    "priceMRP": null,
+    "accent": "#C8A27A",
+    "tags": [
+      "lip scrub",
+      "shea"
+    ]
+  },
+  {
+    "slug": "handwash-soothing-saffron",
+    "name": "Soothing Saffron Handwash",
+    "category": "handwash",
+    "description": "Aromatic saffron liquid handwash that cleanses gently. Available in retail and bulk sizes.",
+    "size": "250 ml / 1 Ltr / 4 Ltr",
+    "priceMRP": null,
+    "accent": "#E08A1E",
+    "tags": [
+      "handwash",
+      "saffron"
+    ]
+  },
+  {
+    "slug": "handwash-ocean-breeze",
+    "name": "Ocean Breeze Handwash",
+    "category": "handwash",
+    "description": "Fresh aquatic-scent liquid handwash for everyday cleansing. Available in bulk sizes.",
+    "size": "250 ml / 1 Ltr / 4 Ltr",
+    "priceMRP": null,
+    "accent": "#1E7FB1",
+    "tags": [
+      "handwash",
+      "fresh"
+    ]
+  },
+  {
+    "slug": "handwash-lemon",
+    "name": "Lemon Handwash",
+    "category": "handwash",
+    "description": "Zesty lemon liquid handwash that leaves hands clean and fresh.",
+    "size": "250 ml / 1 Ltr",
+    "priceMRP": null,
+    "accent": "#E7C200",
+    "tags": [
+      "handwash",
+      "lemon"
+    ]
+  },
+  {
+    "slug": "handwash-aromatic-armani",
+    "name": "Aromatic Armani Handwash",
+    "category": "handwash",
+    "description": "Premium aromatic liquid handwash with a long-lasting fragrance.",
+    "size": "1 Ltr",
+    "priceMRP": null,
+    "accent": "#5A3F8A",
+    "tags": [
+      "handwash",
+      "premium"
+    ]
+  },
+  {
+    "slug": "handwash-aloe-neem",
+    "name": "Aloe Neem Handwash",
+    "category": "handwash",
+    "description": "Aloe vera and neem handwash that cleanses while caring for hands.",
+    "size": "250 ml",
+    "priceMRP": null,
+    "accent": "#5BA46F",
+    "tags": [
+      "handwash",
+      "aloe",
+      "neem"
+    ]
+  },
+  {
+    "slug": "handwash-himalayan-rose",
+    "name": "Himalayan Rose Handwash",
+    "category": "handwash",
+    "description": "Delicate Himalayan rose liquid handwash for soft, fragrant hands.",
+    "size": "250 ml",
+    "priceMRP": null,
+    "accent": "#D81B60",
+    "tags": [
+      "handwash",
+      "rose"
+    ]
+  },
+  {
+    "slug": "custom-name-soap",
+    "name": "Name Soap",
+    "category": "customised-gifting",
+    "description": "Personalised handmade soaps featuring a name — perfect for gifting and events.",
+    "priceMRP": null,
+    "accent": "#C2185B",
+    "tags": [
+      "customised",
+      "gifting"
+    ]
+  },
+  {
+    "slug": "custom-photo-soap",
+    "name": "Photo Soap",
+    "category": "customised-gifting",
+    "description": "Custom soaps with a printed photo — a thoughtful, one-of-a-kind keepsake gift.",
+    "priceMRP": null,
+    "accent": "#3A8DC4",
+    "tags": [
+      "customised",
+      "gifting"
+    ]
+  },
+  {
+    "slug": "custom-toy-soap",
+    "name": "Toy Soap",
+    "category": "customised-gifting",
+    "description": "Fun character and toy-shaped soaps that kids and collectors love.",
+    "priceMRP": null,
+    "accent": "#E0A92E",
+    "tags": [
+      "customised",
+      "kids"
+    ]
+  },
+  {
+    "slug": "custom-kid-soap",
+    "name": "Kid Soap",
+    "category": "customised-gifting",
+    "description": "Gentle, playful handmade soaps shaped for children in cheerful colours.",
+    "priceMRP": null,
+    "accent": "#EC8AA5",
+    "tags": [
+      "customised",
+      "kids"
+    ]
+  },
+  {
+    "slug": "custom-shapes",
+    "name": "Customised Shapes",
+    "category": "customised-gifting",
+    "description": "Hearts, flowers, animals and more — handmade soaps moulded into any shape you need.",
+    "priceMRP": null,
+    "accent": "#6B3FA0",
+    "tags": [
+      "customised"
+    ]
+  },
+  {
+    "slug": "custom-hamper",
+    "name": "Customised Gift Hamper",
+    "category": "customised-gifting",
+    "description": "Curated gift boxes of soaps and personal care — fully customised for any occasion.",
+    "priceMRP": null,
+    "accent": "#A23A55",
+    "tags": [
+      "customised",
+      "hamper",
+      "gifting"
+    ]
+  },
+  {
+    "slug": "home-toilet-cleaner",
+    "name": "Toilet Cleaner",
+    "category": "home-care",
+    "description": "Powerful toilet cleaner that removes tough stains and leaves a sparkling clean toilet.",
+    "priceMRP": null,
+    "accent": "#3F51B5",
+    "tags": [
+      "home care",
+      "cleaner"
+    ]
+  },
+  {
+    "slug": "home-dishwash-gel",
+    "name": "Dishwash Gel",
+    "category": "home-care",
+    "description": "Active dishwash gel that cuts through grease for clean, shining utensils.",
+    "priceMRP": null,
+    "accent": "#E0A92E",
+    "tags": [
+      "home care",
+      "dishwash"
+    ]
+  },
+  {
+    "slug": "home-floor-cleaner",
+    "name": "Floor Cleaner",
+    "category": "home-care",
+    "description": "Effective floor cleaner that lifts dirt and leaves a fresh, hygienic finish.",
+    "priceMRP": null,
+    "accent": "#2B8C7A",
+    "tags": [
+      "home care",
+      "cleaner"
+    ]
+  },
+  {
+    "slug": "home-laundry-wash",
+    "name": "Laundry Wash",
+    "category": "home-care",
+    "description": "Value-for-money laundry wash that cleans clothes thoroughly while caring for fabric.",
+    "priceMRP": null,
+    "accent": "#1E7FB1",
+    "tags": [
+      "home care",
+      "laundry"
+    ]
+  },
+  {
+    "slug": "home-glass-cleaner",
+    "name": "Glass Cleaner",
+    "category": "home-care",
+    "description": "Streak-free glass cleaner for crystal-clear windows, mirrors and surfaces.",
+    "priceMRP": null,
+    "accent": "#5FA8C4",
+    "tags": [
+      "home care",
+      "cleaner"
+    ]
+  },
+  {
+    "slug": "hotel-amenity-kit",
+    "name": "Hotel Amenity Kit (Custom Branded)",
+    "category": "bulk-hotel",
+    "description": "Hotel-branded shampoo, conditioner, body lotion and shower gel in 15 ml / 30 ml bottles. Add your hotel name.",
+    "size": "15 ml / 30 ml",
+    "priceMRP": null,
+    "accent": "#3A4A66",
+    "tags": [
+      "hotel",
+      "amenities",
+      "bulk"
+    ]
+  },
+  {
+    "slug": "hotel-soap",
+    "name": "Hotel Soap with Natural Oil",
+    "category": "bulk-hotel",
+    "description": "Premium hotel guest soaps with natural oil, custom boxed with your branding.",
+    "priceMRP": null,
+    "accent": "#5FA8C4",
+    "tags": [
+      "hotel",
+      "soap",
+      "bulk"
+    ]
+  },
+  {
+    "slug": "bulk-personal-care",
+    "name": "Bulk Personal Care (Shampoo, Conditioner, Lotion, Body Wash)",
+    "category": "bulk-hotel",
+    "description": "Economical bulk packaging of personal care liquids and handmade soap in 20 / 50 / 100 / 200 kg.",
+    "size": "20 / 50 / 100 / 200 kg",
+    "priceMRP": null,
+    "accent": "#3A4A66",
+    "tags": [
+      "bulk",
+      "personal care"
+    ]
+  },
+  {
+    "slug": "bulk-home-care",
+    "name": "Bulk Home Care (Cleaners, Dishwash, Laundry)",
+    "category": "bulk-hotel",
+    "description": "Toilet cleaner, dishwash gel, floor cleaner, laundry wash and glass cleaner in economical bulk drums.",
+    "size": "20 / 50 / 100 / 200 kg",
+    "priceMRP": null,
+    "accent": "#2B8C7A",
+    "tags": [
+      "bulk",
+      "home care"
+    ]
+  }
+]
