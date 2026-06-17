@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { site } from "@/lib/site";
 import { categories } from "@/data/categories";
-import { getProducts, getProductCount } from "@/data/products";
+import { getProducts } from "@/data/products";
 import { CategoryCard } from "@/components/CategoryCard";
 import { ProductCard } from "@/components/ProductCard";
 import { waWholesaleQuote, waGeneralInquiry, whatsappLink } from "@/lib/whatsapp";
@@ -51,9 +51,9 @@ const steps = [
   },
 ];
 
-export default function HomePage() {
-  const allProducts = getProducts();
-  const productCount = getProductCount();
+export default async function HomePage() {
+  const allProducts = await getProducts();
+  const productCount = allProducts.length;
   const featured = FEATURED_SLUGS.map(
     (slug) => allProducts.find((p) => p.slug === slug)
   ).filter((p): p is NonNullable<typeof p> => Boolean(p));

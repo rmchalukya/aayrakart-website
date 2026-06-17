@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { getProducts, getProductCount } from "@/data/products";
+import { getProducts } from "@/data/products";
 import { categories } from "@/data/categories";
 import { ProductsExplorer } from "@/components/ProductsExplorer";
 import { site } from "@/lib/site";
@@ -12,9 +12,9 @@ export const metadata: Metadata = {
   description: `Browse the full ${site.featuredBrand} range distributed by ${site.name} — handmade soaps, face care, hair care, body care and more at wholesale prices.`,
 };
 
-export default function ProductsPage() {
-  const products = getProducts();
-  const productCount = getProductCount();
+export default async function ProductsPage() {
+  const products = await getProducts();
+  const productCount = products.length;
   return (
     <>
       <section className="border-b border-ink/10 bg-cream-200/40">

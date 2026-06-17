@@ -1,7 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
-import fs from "node:fs";
-import path from "node:path";
 import { isValidAdminToken } from "@/lib/adminAuth";
+import { persistImage } from "@/lib/store";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -65,22 +64,23 @@ export async function POST(req: NextRequest) {
     slugify(file.name.replace(/\.[^.]+$/, "")) ||
     `product-${Date.now()}`;
 
-  const dir = path.join(process.cwd(), "public", "products");
   const filename = `${base}.${ext}`;
-  const dest = path.join(dir, filename);
 
+  let publicPath: string;
   try {
-    fs.mkdirSync(dir, { recursive: true });
     const bytes = Buffer.from(await file.arrayBuffer());
-    fs.writeFileSync(dest, bytes);
-  } catch {
+    publicPath = await persistImage(filename, bytes, file.type);
+  } catch (e) {
+    const detail = e instanceof Error ? e.message : "unknown error";
     return NextResponse.json(
-      { error: "Failed to save file (filesystem not writable on this host?)" },
+      {
+        error:
+          "Failed to save file. On serverless hosts set BLOB_READ_WRITE_TOKEN (Vercel Blob). " +
+          detail,
+      },
       { status: 500 }
     );
   }
 
-  // Versioned path busts the browser cache when an image is replaced.
-  const publicPath = `/products/${filename}?v=${Date.now()}`;
   return NextResponse.json({ ok: true, path: publicPath, filename });
 }

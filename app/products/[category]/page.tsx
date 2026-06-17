@@ -36,7 +36,7 @@ export default async function CategoryPage({
   const cat = categoryBySlug(category);
   if (!cat) notFound();
 
-  const items = productsByCategory(cat.slug);
+  const items = await productsByCategory(cat.slug);
 
   return (
     <>

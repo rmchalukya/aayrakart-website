@@ -2,8 +2,8 @@ import Link from "next/link";
 import type { Category } from "@/data/categories";
 import { productsByCategory } from "@/data/products";
 
-export function CategoryCard({ category }: { category: Category }) {
-  const count = productsByCategory(category.slug).length;
+export async function CategoryCard({ category }: { category: Category }) {
+  const count = (await productsByCategory(category.slug)).length;
   return (
     <Link
       href={`/products/${category.slug}`}

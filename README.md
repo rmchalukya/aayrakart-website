@@ -54,11 +54,19 @@ A hidden editor lets you add/edit/delete products and prices from the browser.
   `.env.local` and restarting the server.
 - Edits save to `data/products.json` and appear on the live site immediately.
 
-> **Hosting note:** saving works on a normal server (`npm run dev`, or
-> `npm start` on a VPS). On **Vercel/Netlify serverless the filesystem is
-> read-only**, so the editor cannot persist there — use a database/CMS for that
-> setup (ask and I'll wire one up). The site still *reads* fine on Vercel; you'd
-> just edit `data/products.json` in git instead.
+> **Storage is adaptive (see `lib/store.ts`):**
+> - **Local dev** (no `BLOB_READ_WRITE_TOKEN`): products read/write
+>   `data/products.json`; uploads go to `public/products/`.
+> - **Production / Vercel** (`BLOB_READ_WRITE_TOKEN` set): products and uploaded
+>   images are stored in **Vercel Blob**, because the serverless filesystem is
+>   read-only. The committed `data/products.json` is the initial seed.
+>
+> **To enable the live editor on Vercel:**
+> 1. Vercel → your project → **Storage → Create → Blob** (creates a store and
+>    auto-adds `BLOB_READ_WRITE_TOKEN` to the project's env vars).
+> 2. Vercel → **Settings → Environment Variables** → add `ADMIN_TOKEN` (the
+>    same secret you use locally).
+> 3. **Redeploy.** Edits and image uploads in `/admin` now persist in Blob.
 
 ### Prices
 

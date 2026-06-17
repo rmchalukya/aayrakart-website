@@ -78,7 +78,7 @@ function sanitize(input: unknown): { ok: true; items: Product[] } | { ok: false;
 export async function GET(req: NextRequest) {
   if (!isValidAdminToken(tokenFrom(req))) return unauthorized();
   return NextResponse.json({
-    products: getProducts(),
+    products: await getProducts(),
     categories: categories.map((c) => ({ slug: c.slug, name: c.name })),
   });
 }
@@ -98,10 +98,15 @@ export async function PUT(req: NextRequest) {
   if (!result.ok) return NextResponse.json({ error: result.error }, { status: 400 });
 
   try {
-    saveProducts(result.items);
+    await saveProducts(result.items);
   } catch (e) {
+    const detail = e instanceof Error ? e.message : "unknown error";
     return NextResponse.json(
-      { error: "Failed to save (filesystem not writable on this host?)" },
+      {
+        error:
+          "Failed to save. On serverless hosts set BLOB_READ_WRITE_TOKEN (Vercel Blob). " +
+          detail,
+      },
       { status: 500 }
     );
   }
